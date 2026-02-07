@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "刹那の渦",
+  "base_artist": "須田景凪",
+  "createdAt": "2026-02-07T08:51:01.661849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "刹那の渦",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/01_刹那の渦_須田景凪.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "刹那の渦",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_刹那の渦_須田景凪.txt"
+    }
+  ]
+}
